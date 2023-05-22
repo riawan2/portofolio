@@ -1,0 +1,9 @@
+public class looping {
+    public static void main(string[]args) {
+        int a = 5;
+        while (a > 0) {
+            system.out.print(a);
+
+        }
+    }
+}
